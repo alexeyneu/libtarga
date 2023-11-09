@@ -1,3 +1,5 @@
+artweaver can be used to produce `.tga`
+
 ## example
 ```C++
 	BYTE *trr;
